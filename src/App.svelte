@@ -32,8 +32,8 @@ onMount(() => {
 
 <div class="container">
 	<div class="row">
-		<h1>Coin Search App</h1>
-		<p class="text-muted">Made by rocampocastro604</p>
+		<h1>CryptoCoin Search App</h1>
+		<p class="text-muted">Made by <a href="https://github.com/rocampocastro604/crypto-search">rocampocastro604</a></p>
 		<input 
 		type="text" 
 		class="form-control bg-dark text-light my-4"
